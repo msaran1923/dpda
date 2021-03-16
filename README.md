@@ -1,6 +1,6 @@
 # dpda
 
-Distribution-preserving Data Augmentation
+Distribution-preserving data-augmentation
 1. Download Dataset: http://weegee.vision.ucmerced.edu/datasets/landuse.html
 2. Setup OpenCV version: 440
 3. Setup Boost version: 1_74
