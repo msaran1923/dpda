@@ -1,7 +1,7 @@
-# dpda
+# dpda-windows
 
 Distribution-preserving data-augmentation
-1. Download Dataset: http://weegee.vision.ucmerced.edu/datasets/landuse.html
+1. Download a dataset: http://weegee.vision.ucmerced.edu/datasets/landuse.html
 2. Setup OpenCV version: 440
 3. Setup Boost version: 1_74
 4. Setup ImageMagick-7.0.10-Q16-HDRI
