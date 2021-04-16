@@ -2,9 +2,9 @@
 
 Distribution-preserving data-augmentation
 1. Download a dataset: 
-   UC Merced Land Use Dataset: http://weegee.vision.ucmerced.edu/datasets/landuse.html
-   Intel Image Classification: https://www.kaggle.com/puneet6060/intel-image-classification
-   The Oxford-IIIT Pet Dataset: https://www.robots.ox.ac.uk/~vgg/data/pets/
+   - UC Merced Land Use Dataset: http://weegee.vision.ucmerced.edu/datasets/landuse.html
+   - Intel Image Classification: https://www.kaggle.com/puneet6060/intel-image-classification
+   - The Oxford-IIIT Pet Dataset: https://www.robots.ox.ac.uk/~vgg/data/pets/
 3. Setup OpenCV version: 440
 4. Setup Boost version: 1_74
 5. Setup ImageMagick-7.0.10-Q16-HDRI
