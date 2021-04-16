@@ -11,11 +11,7 @@ Distribution-preserving data-augmentation
 6. Change the paths in VS2019.bat and open the Visual Studio 2019 with provided VS2019.bat
 7. You must create two folders named "images" and "results" in the project directory.
 8. Create a folder under "images" named "train"
-9. Create as many folders for your classes as you wish under the "train" folder (Sample data is provided).
+9. Create as many folders for your classes as you wish under the "train" folder.
 10. Copy images to corresponding class folders -- png, jpg, and tiff are supported
 11. Debug and run the project in Release X-64 mode
 12. Augmentation settings can be adjusted by using the informative comments in the "dataAugmentationProject.cpp" file.
-
-
-
-
